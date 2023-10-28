@@ -1,2 +1,0 @@
-# tapacademyweb.github.io
-tapacademy
